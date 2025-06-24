@@ -364,49 +364,6 @@ proper conventions and has an understandable structure.
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/98afd8fd-b53b-4551-a94d-c341a7a37d60">
 
 
-## References
-
-Resources here helped us understand basic syntax for some code and also how these techniques
-worked, we used the titanic project as a reference to know about various steps in EDA and about
-various libraries out there.
-
-Pandas documentation :
-
-https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.describe.html
-
-Heat map:
-
-https://medium.com/@szabo.bibor/how-to-create-a-seaborn-correlation-heatmap-in-python-834c0686b88e
-
-Histogram: 
-
-https://www.geeksforgeeks.org/plotting-histogram-in-python-using-matplotlib/
-
-Box plot:
-
-https://www.w3resource.com/machine-learning/scikit-learn/iris/python-machine-learning-scikit-learn-iris-visualization-exercise-18.php
-
-One-hot encoding: 
-
-https://www.geeksforgeeks.org/ml-one-hot-encoding/
-
-Normalization:
-
-https://medium.com/@onersarpnalcin/standardscaler-vs-minmaxscaler-vs-robustscaler-which-one-to-use-for-your-next-ml-project-ae5b44f571b9
-
-Different encoding techniques:
-
-https://medium.com/aiskunks/categorical-data-encoding-techniques-d6296697a40f#:~:text=It%20refers%20to%20the%20process,with%20text%20or%20categorical%20variables.
-
-Titanic Data set for reference of Basic EDA: 
-
-https://www.kaggle.com/c/titanic/data
-
-
-
-
-
-
 
 
 
