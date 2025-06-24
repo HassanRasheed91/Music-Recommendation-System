@@ -9,7 +9,7 @@ A music recommendation project that uses clustering to categorize music genres b
 
 https://www.kaggle.com/datasets/iamsumat/spotify-top-2000s-mega-dataset/data 
 
-## Solution Flow
+## Project Flow
 ### Dimensionality
 
 <img width="962" alt="image" src="https://github.com/Aparnajr2000/Music_recommendation_system/assets/84074591/aec25237-89b0-48db-b987-0000c8b16dea">
